@@ -25,6 +25,9 @@ class Peliculas {
 }
 
 class Pelicula {
+
+  String uniqueId;
+
   int id;
   double popularity;
   bool video;
